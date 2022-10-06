@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DerScherenmann
-- 👀 I’m interested in neural networks and object detection
-- 🌱 I’m currently learning Medical Computerscience at Heilbronn and Heidelberg University
-- 📫 How to reach me ronicke@stud.hs-heilbronn.de
+- Working on my own neural network API for fun
+- I’m currently studying Medical Computerscience at Heilbronn and Heidelberg University
+- Contact me at ronickel@stud.hs-heilbronn.de
 
 <!---
 DerScherenmann/DerScherenmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
